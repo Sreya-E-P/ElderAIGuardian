@@ -740,7 +740,7 @@ elder-ai-guardian/
 ## 🎬 Demo
 
 ### Demo Video
-[📺 Watch the 2-minute demo](https://youtube.com/YOUR_VIDEO_LINK)
+[📺 Watch the 2-minute demo](https://github.com/user-attachments/assets/d8dfc142-d86a-47da-9019-0ce6329853fa)
 
 ### Key Demo Scenarios
 
