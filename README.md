@@ -172,6 +172,7 @@ This project was built specifically to demonstrate the four Microsoft hero techn
 └─────────────────┘    └─────────────────────┘  └──────────────────┘
 ```
 <img width="467" height="620" alt="Image" src="https://github.com/user-attachments/assets/76ba9cc1-d748-4ff4-ba7c-0727772d0a49" />
+<img width="716" height="865" alt="Image" src="https://github.com/user-attachments/assets/b2f9fc1d-6186-4a78-b9ee-c7e0dd5448bd" />
 
 
 ---
