@@ -171,7 +171,10 @@ This project was built specifically to demonstrate the four Microsoft hero techn
 │  kvelderai9338  │    │  Live telemetry      │  │  9 tools         │
 └─────────────────┘    └─────────────────────┘  └──────────────────┘
 ```
+<img width="467" height="620" alt="Image" src="https://github.com/user-attachments/assets/76ba9cc1-d748-4ff4-ba7c-0727772d0a49" />
 
+<img width="1594" height="815" alt="Image" src="https://github.com/user-attachments/assets/b601acb4-db1a-4fc1-8921-c6945706f4e6" />
+![Image](https://github.com/user-attachments/assets/5d385988-7c51-4bd8-a171-44b97577b9fe)
 ---
 
 ## ✨ Features
